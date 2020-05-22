@@ -1,6 +1,7 @@
 # Movie List
 A simple web application for movie fanatic <br>
-Take a look: https://ting11222001.github.io/Movie-List-API-with-Info-and-Fav/
+Take a look: https://ting11222001.github.io/Movie-List-API-with-Info-and-Fav/ <br>
+API raw page: https://movie-list.alphacamp.io/api/v1/movies/
 
 ## Features
 - listing movies from movie api

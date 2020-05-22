@@ -1,5 +1,6 @@
 # Movie List
-A simple web application for movie fanatic
+A simple web application for movie fanatic <br>
+Take a look: https://ting11222001.github.io/Movie-List-API-with-Info-and-Fav/
 
 ## Features
 - listing movies from movie api
